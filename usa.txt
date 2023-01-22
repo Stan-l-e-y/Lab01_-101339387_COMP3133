@@ -1,0 +1,12 @@
+{"country":"United States","year":"1952","population":"157553000"}
+{"country":"United States","year":"1957","population":"171984000"}
+{"country":"United States","year":"1962","population":"186538000"}
+{"country":"United States","year":"1967","population":"198712000"}
+{"country":"United States","year":"1972","population":"209896000"}
+{"country":"United States","year":"1977","population":"220239000"}
+{"country":"United States","year":"1982","population":"232187835"}
+{"country":"United States","year":"1987","population":"242803533"}
+{"country":"United States","year":"1992","population":"256894189"}
+{"country":"United States","year":"1997","population":"272911760"}
+{"country":"United States","year":"2002","population":"287675526"}
+{"country":"United States","year":"2007","population":"301139947"}

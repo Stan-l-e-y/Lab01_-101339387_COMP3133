@@ -1,0 +1,12 @@
+{"country":"Canada","year":"1952","population":"14785584"}
+{"country":"Canada","year":"1957","population":"17010154"}
+{"country":"Canada","year":"1962","population":"18985849"}
+{"country":"Canada","year":"1967","population":"20819767"}
+{"country":"Canada","year":"1972","population":"22284500"}
+{"country":"Canada","year":"1977","population":"23796400"}
+{"country":"Canada","year":"1982","population":"25201900"}
+{"country":"Canada","year":"1987","population":"26549700"}
+{"country":"Canada","year":"1992","population":"28523502"}
+{"country":"Canada","year":"1997","population":"30305843"}
+{"country":"Canada","year":"2002","population":"31902268"}
+{"country":"Canada","year":"2007","population":"33390141"}
